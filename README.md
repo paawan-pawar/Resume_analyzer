@@ -1,6 +1,7 @@
 # AI Resume Analyzer
 
 AI Resume Analyzer is a machine learning powered Streamlit web app that reviews a resume with ATS-style analysis. It extracts text from an uploaded PDF resume, predicts the most likely career domain, estimates an ATS score, compares the resume against a target job role, and suggests missing skills and improvement tips.
+
 url: https://resumeanalyzer-gqbgbcfhsoampf6culzofe.streamlit.app/
 
 ## Features
